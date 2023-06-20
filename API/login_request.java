@@ -1,8 +1,8 @@
 {
   "Login":{
     "@mode":"Webconsole",
-    "@domain":"www.test.com/login",
-    "@username":"demo0",
-    "@password":"tropical1",
+    "@domain":"https://afs-c2-dev-ed.develop.my.salesforce.com/",
+    "@username":"sade.hillard@accenture.com",
+    "@password":"Accenture@123456",
   }
 }
